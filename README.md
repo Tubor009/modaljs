@@ -1,2 +1,0 @@
-# modaljs
-modal with javascript
